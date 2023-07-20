@@ -16,6 +16,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 📌 Projects
 
+- **mediahub-php**
+   - Media manager built in pure PHP.
+   - [Go to repo ↗](https://github.com/fmpavon/mediahub-php)
 - **mediahub-spring**
    - Media manager built in Java and Spring, serving as WebApp and API.
    - [Go to repo ↗](https://github.com/fmpavon/mediahub-spring)

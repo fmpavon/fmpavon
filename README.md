@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 🆔 About Me
 
-- 🌱 Recently graduated in Higher Vocational Training in Web Development and Higher Vocational Training in Multiplatform Development
-- 💼 Open to job opportunities and exciting projects
+- 💼 Currently working at **[cabsa](https://www.cabsa.es/)**
+- 🌱 Graduated in Higher Vocational Training in Web Development and Higher Vocational Training in Multiplatform Development
 - 📫 Reach me via email: [francisco.mpavon@gmail.com](mailto:francisco.mpavon@gmail.com)
 
 ## 👩‍💻 Programming Languages
